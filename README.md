@@ -1,2 +1,3 @@
-# WEDE5020-SibahleGumle
-this is the website for a store that sells handmade crocheted products
+# WEDE5020SibahleGumle
+This is the website for a small business that sells crocheted clothing. 
+
